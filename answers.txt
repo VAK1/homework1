@@ -1,6 +1,5 @@
 What is a remote repository?
 
-
 A remote repository in Git is like a backup copy of your project that you keep on the internet. You know how you save your work on your computer and also upload it to Google Drive or Dropbox, right? Well, that's kind of what a remote repository is in Git.
 
 Think of it like a shared notebook that you and your friends can access and make changes to. You can work on your own version of the project on your own computer, and then push your changes up to the remote repository so that everyone else can see them. And when your friends make changes, you can pull them down to your computer.
