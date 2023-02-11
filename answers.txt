@@ -1,3 +1,6 @@
+What is the difference between a merge and a rebase?
+
+
 Okay, so you have two branches in Git and you want to combine their changes, right? The two ways to do that are "merging" and "rebasing".
 
 Merging is like taking all the changes from one branch and just dumping them into the other branch. It's like getting all your friend's notes from a class and just putting them into your notebook without worrying about the order.
