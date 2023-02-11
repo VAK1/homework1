@@ -1,0 +1,7 @@
+Okay, so you have two branches in Git and you want to combine their changes, right? The two ways to do that are "merging" and "rebasing".
+
+Merging is like taking all the changes from one branch and just dumping them into the other branch. It's like getting all your friend's notes from a class and just putting them into your notebook without worrying about the order.
+
+Rebasing is like taking the changes one by one and putting them on top of the other branch, like a stack of papers. It's like copying your friend's notes and rewriting them in your own words in the order that you took the class.
+
+So, to sum it up: merging is just putting everything together and rebasing is putting it together in a specific order. Hope that helps!
