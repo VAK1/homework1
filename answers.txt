@@ -1,14 +1,10 @@
-<<<<<<< HEAD
 What is the difference between a merge and a rebase?
 
 
 Okay, so you have two branches in Git and you want to combine their changes, right? The two ways to do that are "merging" and "rebasing".
-=======
-What is a remote repository?
->>>>>>> progress
 
-A remote repository in Git is like a backup copy of your project that you keep on the internet. You know how you save your work on your computer and also upload it to Google Drive or Dropbox, right? Well, that's kind of what a remote repository is in Git.
+Merging is like taking all the changes from one branch and just dumping them into the other branch. It's like getting all your friend's notes from a class and just putting them into your notebook without worrying about the order.
 
-Think of it like a shared notebook that you and your friends can access and make changes to. You can work on your own version of the project on your own computer, and then push your changes up to the remote repository so that everyone else can see them. And when your friends make changes, you can pull them down to your computer.
+Rebasing is like taking the changes one by one and putting them on top of the other branch, like a stack of papers. It's like copying your friend's notes and rewriting them in your own words in the order that you took the class.
 
-It's a really useful way to work on projects with other people and make sure you always have a backup of your work. Hope that makes sense!
+So, to sum it up: merging is just putting everything together and rebasing is putting it together in a specific order. Hope that helps!
